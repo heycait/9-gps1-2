@@ -1,0 +1,93 @@
+header {
+	font-size: 5em;
+	font-family: Courier;
+	text-align: center;
+	background-color: #ddd;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	opacity: 1;
+}
+
+
+
+footer {
+	font-size: 0.7em;
+	font-family: Courier;
+	text-align: center;
+	background-color: #ddd;
+	padding: 1em;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	opacity: 1;
+}
+
+a img {
+	opacity: 0.5;
+	margin: 1em;
+}
+
+a:hover img {
+	opacity: 1;
+}
+
+.img_size {
+	width: 375px;
+	height:325px;
+}
+
+#pair_program {
+	display: inline-block;
+	position: relative;
+	top: 3em;
+	left: 3em;
+}
+
+#why_pair {
+	display: inline-block;
+	position: relative;
+	top: 5em;
+	left: 2em;
+}
+
+#driver_navigator {
+	display: inline-block;
+	position: relative;
+	top: 5em;
+	left: 2em;
+}
+
+
+/*
+body {
+  font: 14px/1.4 arial;
+}
+
+
+.imgWrap {
+  position: relative;
+  height: 200px;
+  width: 257px;
+}
+
+.img_text {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(29, 106, 154, 0.72);
+  color: #fff;
+  visibility: hidden;
+  opacity: 0;
+}
+
+
+.imgWrap:hover .img_text {
+  visibility: visible;
+  opacity: 1;
+}
+*/
